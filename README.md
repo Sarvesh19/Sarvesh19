@@ -1,4 +1,4 @@
-Hi 👋, I'm Uday Phalak,
+Hi 👋, I'm Sarvesh,
 Software Engineer, Entrepreneur
 
 I am Fullstack developer with over 5+ years workex in development.
