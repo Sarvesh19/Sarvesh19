@@ -1,9 +1,6 @@
-Hi 👋, I'm Sarvesh,
+### Hi 👋, I'm Sarvesh, 
+#### Fullstack Developer, Entrepreneur 
 
-# Software Engineer, Entrepreneur
-
-I am Fullstack developer with over 5+ years workex in development.
-
-I have workded on many freelancing projects.
-
-Currently working on my personal projects.
+#### Talking about personal stuff,
+- 🏢 I’m currently working on my personal project.
+- 📫 Reach me: [https://twitter.com/sarvesh_305](https://twitter.com/sarvesh_305)
